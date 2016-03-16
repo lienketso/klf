@@ -1,0 +1,4 @@
+[15-May-2014 13:46:34 Asia/Bangkok] PHP Warning:  mysql_pconnect(): Access denied for user 'lienketso_sn'@'localhost' (using password: YES) in /home/ho4c02/public_html/lib/adodb/drivers/adodb-mysql.inc.php on line 383
+[15-May-2014 13:49:12 Asia/Bangkok] PHP Warning:  mysql_pconnect(): Access denied for user 'lienketso_sn'@'localhost' (using password: YES) in /home/ho4c02/public_html/lib/adodb/drivers/adodb-mysql.inc.php on line 383
+[15-May-2014 14:27:37 Asia/Bangkok] PHP Warning:  mysql_pconnect(): Access denied for user 'ho4c02_sn'@'localhost' (using password: YES) in /home/ho4c02/public_html/lib/adodb/drivers/adodb-mysql.inc.php on line 383
+[15-May-2014 14:27:41 Asia/Bangkok] PHP Warning:  mysql_pconnect(): Access denied for user 'ho4c02_sn'@'localhost' (using password: YES) in /home/ho4c02/public_html/lib/adodb/drivers/adodb-mysql.inc.php on line 383
