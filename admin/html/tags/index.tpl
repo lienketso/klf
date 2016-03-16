@@ -1,0 +1,1 @@
+{include file="$mod/act_$act.tpl"}
